@@ -1,0 +1,22 @@
+{
+  "name": "gify",
+  "version": "1.0.0",
+  "description": "discord bot to display gif",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Gify-bot"
+  },
+  "keywords": [
+    "Gify-bot"
+  ],
+  "author": "0Pixel0",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
